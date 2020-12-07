@@ -13,7 +13,7 @@ bar
 
 actual:
 ```
-foo = <<EOT
+<<EOT
 foo
 bar
 
